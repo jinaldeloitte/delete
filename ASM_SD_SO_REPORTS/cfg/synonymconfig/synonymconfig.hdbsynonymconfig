@@ -1,0 +1,392 @@
+{
+  "syn_tbl_ADRP": {
+    "target": {
+      "object": "ADRP",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_VBAK": {
+    "target": {
+      "object": "VBAK",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_AUSP": {
+    "target": {
+      "object": "AUSP",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_BUT000": {
+    "target": {
+      "object": "BUT000",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_KNA1": {
+    "target": {
+      "object": "KNA1",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_PRCD_ELEMENTS": {
+    "target": {
+      "object": "PRCD_ELEMENTS",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_VBRP": {
+    "target": {
+      "object": "VBRP",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_VBRK": {
+    "target": {
+      "object": "VBRK",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_MARM": {
+    "target": {
+      "object": "MARM",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_FINSC_FISC_DATE": {
+    "target": {
+      "object": "FINSC_FISC_DATE",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_VBEP": {
+    "target": {
+      "object": "VBEP",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_VBKD": {
+    "target": {
+      "object": "VBKD",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_ADRC": {
+    "target": {
+      "object": "ADRC",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_VBPA": {
+    "target": {
+      "object": "VBPA",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_TPAUM": {
+    "target": {
+      "object": "TPAUM",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_LIKP": {
+    "target": {
+      "object": "LIKP",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_LIPS": {
+    "target": {
+      "object": "LIPS",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_VBAP": {
+    "target": {
+      "object": "VBAP",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_CEPCT": {
+    "target": {
+      "object": "CEPCT",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_CEPC": {
+    "target": {
+      "object": "CEPC",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_CKMLCR": {
+    "target": {
+      "object": "CKMLCR",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_ANKT": {
+    "target": {
+      "object": "ANKT",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_CABN": {
+    "target": {
+      "object": "CABN",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_ACDOCA_M_EXTRACT": {
+    "target": {
+      "object": "ACDOCA_M_EXTRACT",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_EBEW": {
+    "target": {
+      "object": "EBEW",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_CSKS": {
+    "target": {
+      "object": "CSKS",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_ACDOCA": {
+    "target": {
+      "object": "ACDOCA",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_T001": {
+    "target": {
+      "object": "T001",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_EKPA": {
+    "target": {
+      "object": "EKPA",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_LFA1": {
+    "target": {
+      "object": "LFA1",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_MAKT": {
+    "target": {
+      "object": "MAKT",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_EKPO": {
+    "target": {
+      "object": "EKPO",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_MATDOC": {
+    "target": {
+      "object": "MATDOC",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_T023T": {
+    "target": {
+      "object": "T023T",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_T134T": {
+    "target": {
+      "object": "T134T",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_T179": {
+    "target": {
+      "object": "T179",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_T179T": {
+    "target": {
+      "object": "T179T",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_TVV1T": {
+    "target": {
+      "object": "TVV1T",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_TVV2T": {
+    "target": {
+      "object": "TVV2T",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_T024E": {
+    "target": {
+      "object": "T024E",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_T163Y": {
+    "target": {
+      "object": "T163Y",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_EKET": {
+    "target": {
+      "object": "EKET",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_MARA": {
+    "target": {
+      "object": "MARA",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_MARA1": {
+    "target": {
+      "object": "MARA1",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_V_MARA_MAKT": {
+    "target": {
+      "object": "V_MARA_MAKT",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_MARD": {
+    "target": {
+      "object": "MARD",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_MATDOCEXTRACT": {
+    "target": {
+      "object": "MATDOC_EXTRACT",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_MCHB": {
+    "target": {
+      "object": "MCHB",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_T001W": {
+    "target": {
+      "object": "T001W",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_T156T": {
+    "target": {
+      "object": "T156T",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_EKKO": {
+    "target": {
+      "object": "EKKO",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_MARC": {
+    "target": {
+      "object": "MARC",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_CDPOS": {
+    "target": {
+      "object": "CDPOS",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_CDHDR": {
+    "target": {
+      "object": "CDHDR",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_DD07T": {
+    "target": {
+      "object": "DD07T",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_TVAK": {
+    "target": {
+      "object": "TVAK",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_TVKO": {
+    "target": {
+      "object": "TVKO",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_TVKOT": {
+    "target": {
+      "object": "TVKOT",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_T006": {
+    "target": {
+      "object": "T006",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_T006D": {
+    "target": {
+      "object": "T006D",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_TCURR": {
+    "target": {
+      "object": "TCURR",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_TCURF": {
+    "target": {
+      "object": "TCURF",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_TCURV": {
+    "target": {
+      "object": "TCURV",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_TCURX": {
+    "target": {
+      "object": "TCURX",
+      "schema": "SAPABAP1"
+    }
+  },
+  "syn_tbl_TCURN": {
+    "target": {
+      "object": "TCURN",
+      "schema": "SAPABAP1"
+    }
+  }
+}
